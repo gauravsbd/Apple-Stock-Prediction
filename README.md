@@ -1,1 +1,2 @@
 # Apple-Stock-Prediction
+LSTM (Long Short-Term Memory) is a type of recurrent neural network (RNN) that excels at capturing long-term dependencies in sequential data. Stacking LSTM layers enhances the model's ability to learn complex patterns by progressively abstracting the input data. However, it increases computational complexity and the risk of overfitting. Regularization techniques like dropout can help mitigate this.
